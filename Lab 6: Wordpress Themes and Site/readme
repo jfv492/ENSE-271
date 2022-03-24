@@ -1,1 +1,22 @@
+Program used: Local 
+Type: Wordpress
+
+TO-Do:
+Your site should include
+
+A consistent header across pages
+A consistent footer across pages
+Appropriate menu linking the pages, with both mobile and desktop variants
+A landing page with at least 3 sections
+Each section should communicate an aspect of the persona’s personality or interests
+Example ideas: book quotes, song lyrics, recipes, photo galleries, pets, etc.
+Each section should experiment with a different type of Wordpress block
+A blog page with at least 3 entries
+Each entry should be both summarized on the blog posts page, and be given their own individual page
+An appointment scheduler app
+
+I’d recommend quickly prototyping in XD first, but don’t get too frustrated when you can’t exactly replicate your XD Design
+You may include elements and styling from templates, but obviously cannot simply submit a template! Use it is a starting point to add, modify or adapt, like we did in the lab.
+You can experiment with a different Page Builder if you would like, like Elementor or Beaver Builder, but expect a performance hit!
+You can grab some cc0 stock photos from: https://www.pexels.com/creative-commons-images/
 
