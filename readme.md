@@ -1,5 +1,2 @@
-Name: Jasmeet Singh 
-Lab 1 
-
-Made a story board on planning a semester
-Tried the attachement feature where I tried to import data from other entities such as excel!
+This repository consists of 6 labs which go over mutiple design applications such as lo-fi, hi-fi prototypes made in Adobe XD.
+The labs are in there respective folder with proper files required for each lab
